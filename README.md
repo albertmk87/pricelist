@@ -4,4 +4,4 @@ PriceList component is where a single price list element is created with the pro
 
 
 
-NOTE: THe api worked great locally but when added on github the api shows an error:No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled. I managed to solve the problem by adding a cors unblock extension in chrome.
+NOTE: THe api worked great locally but when added on github the api shows an error:No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled. I managed to solve the problem by adding a cors unblock extension in chrome. You can pull the files locally or install the extenion.
